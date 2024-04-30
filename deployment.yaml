@@ -22,6 +22,6 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: anouaressa/x-hub-demo:v1
+        image: anouaressa/x-hub-demo:v2
         ports:
         - containerPort: 3000
